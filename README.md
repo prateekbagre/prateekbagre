@@ -7,7 +7,7 @@ I am Front End developer.
 *   🌍  I'm based in Pune, India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://prateekbagre.vercel.app/'>Portfolio</a>
 *   🧠  Trying new things with React.js
-*   🤝  I'm open to Job Opportunities as a React Developer
+*   🤝  I'm open to Job Opportunities as a Frontend Developer
 
 ### Skills
 
