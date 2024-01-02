@@ -1,6 +1,4 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Prateek Bagre</h1>
-
-<hr/>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Prateek Bagre
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prateekbagre.prateekbagre" />
 
