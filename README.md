@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prateekbagre.prateekbagre" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prateek+Bagre!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&weight=600&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prateek+Bagre!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Bhopal, India.</h3>
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **React Projects**
  
- 🌱 I’m currently learning **React, Supabase, AWS**
+ 🌱 I’m currently learning **React.js & Node.js**
 
 💬 Ask me about **UI/UX, JavaScript, React, Node.js... or anything [here](https://github.com/prateekbagre/prateekbagre/issues)**
 
