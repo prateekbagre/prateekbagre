@@ -49,11 +49,11 @@
 <br>
 <div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekbagre)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekbagre&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekbagre&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekbagre&show_icons=true&theme=tokyonight)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=prateekbagre)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=prateekbagre&theme=dark)
 
 </div>
 
